@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "337778965782",
+    "firebase_url": "https://health-freak-v.firebaseio.com",
+    "project_id": "health-freak-v",
+    "storage_bucket": "health-freak-v.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337778965782:android:76c1567ec368da2dea6437",
+        "android_client_info": {
+          "package_name": "com.evineon.healthfreakv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337778965782-2nuqpph1db0tltc488c051g64e8vmfgh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.evineon.healthfreakv",
+            "certificate_hash": "646e3b09db3000ec0816b667148679731523f440"
+          }
+        },
+        {
+          "client_id": "337778965782-lma0o04sllf3abv2cldu621o77tki4u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCosnzdiqs__rJbXlUkOdl28S3NvfvNNBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337778965782-lma0o04sllf3abv2cldu621o77tki4u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
